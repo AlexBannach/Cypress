@@ -3,8 +3,7 @@
 
 const elements ={
         buttons:{
-            userLogout: '#userLogged',
-            logoutButton: 'a[href*="my-account"]'            
+            userLogout: '#userLogged'          
         },
         messages:{
             successTitle: '#swal2-title',
